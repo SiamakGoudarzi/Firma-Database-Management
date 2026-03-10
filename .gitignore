@@ -1,0 +1,20 @@
+# SQL Server Management Studio (SSMS) temporary files
+*.USER
+*.suo
+*.sln.docstates
+*.sublime-project
+*.sublime-workspace
+
+# Backup and log files
+*.bak
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# SQL Query results (if you export them)
+*.csv
+*.xlsx

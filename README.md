@@ -67,5 +67,4 @@ Das relationale Schema umfasst **One-to-Many** und **Many-to-Many** Beziehungen,
 3. Drücken Sie `F5`, um das Skript auszuführen. Die Datenbank, das Schema und die Beispieldaten werden automatisch erstellt.
 
 ---
-**Author:** Siamak Goudarzi  
-**Date:** Februar 2026
+**Author:** Siamak Goudarzi 
